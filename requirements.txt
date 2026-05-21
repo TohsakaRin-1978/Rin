@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+sentence-transformers
+chromadb
+pypdf
+python-docx
+pandas
+numpy
+fastapi
+uvicorn[standard]
+pydantic
+pytest
