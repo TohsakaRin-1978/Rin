@@ -1,0 +1,3 @@
+Machine learning is a field of artificial intelligence that allows computers to learn patterns from data.
+Supervised learning uses labeled data to train models. Common examples include classification and regression.
+Unsupervised learning works with unlabeled data. Clustering is a common unsupervised learning task.

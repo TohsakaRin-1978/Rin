@@ -1,0 +1,3 @@
+Python is a high-level programming language. It is widely used in education, data analysis, artificial intelligence, web development, and automation.
+A list in Python is a collection data type. It can store multiple values in one variable. Lists are ordered and mutable.
+A function in Python is a reusable block of code. It is defined using the def keyword.
